@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 950px;
+    margin-left: 200px;
+   
+} 
+p{
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.699);
+    margin-left: 230px;
+    margin-top: -25px;
+}
+
+.img{
+    margin-left: 350px;
+    padding-top: 50px;
+}
+.fontimg1{
+    padding-top: 50px;
+    font-size: 12px;
+    margin-top: -45px;
+    padding-left: 120px;
+    
+}
+.p1{
+    margin-top: 50px;
+    width: 600px;
+    margin-left: 350px;
+    color: rgb(0, 0, 0);
+}
+
+a{
+  font-family: serif;
+  text-decoration: none;
+  color: rgb(255, 0, 0);
+}
+.img2{
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.fontimg2{
+    padding-top: 50px;
+    font-size: 12px;
+    margin-top: -45px;
+    padding-left: 120px;
+    
+}
+.text1{
+    padding-top: 50px;
+    font-size: 22px;
+    width: 600px;
+    margin-left: 350px;
+    color: black;
+}
+.text2{
+    padding-top: 30px;
+    font-size: 22px;
+    width: 670px;
+    margin-left: 350px;
+    color: black;
+}
+.lupa{
+ margin-left: 350px;
+}
+.link{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+i{
+    color: rgba(255, 8, 8, 0.925);
+    font-family: 'Times New Roman', Times, serif;
+}
